@@ -1,0 +1,53 @@
+# Metadaten des MekoTools-Werkzeugs "Drumhaus".
+# Schema: schema/tool.schema.json im Katalog-Repo. Werte ohne Beleg werden
+# nicht eingetragen. Die id ist stabil und wird nie umbenannt.
+
+schema_version: 1
+
+id: mekotools-drumhaus
+titel: Drumhaus
+kurzbeschreibung: 'Eine Schlagzeug-Maschine im Browser: zehn fertige Klangsätze, je acht Stimmen und sechzehn Schritte, Tempo, Swing und Effekte einstellen, Muster zu Ketten zusammenstellen — ein Muster lässt sich als Link weitergeben oder als Tondatei sichern, ohne Konto. Alle Klänge sind freie Aufnahmen und liegen auf dem eigenen Server.'
+themen: [creation]
+unterthemen: [creation/audio]
+stufe: 3
+schlagworte: [ton]
+
+laufzeit: browser
+betrieb: eigen
+reifegrad: beta
+aufwand_lehrkraft: niedrig
+
+zielgruppe: [sek1, sek2]
+geraete: [desktop, tablet]
+kamera: nein
+mikrofon: nein
+
+bildungsbezug:
+  kompetenzen:
+    - produzieren-praesentieren
+    - analysieren-reflektieren
+    - problemloesen-handeln
+  faecher: [musik, informatik]
+  lernziele:
+    - Ein Muster aus Schlagzeugstimmen in sechzehn Schritten setzen und zum Klingen bringen
+    - Tempo, Swing und Lautstärken so verändern, dass eine gewünschte Wirkung entsteht, und die Wirkung beschreiben
+    - Zwei Muster zu einer Kette verbinden und das Ergebnis als Link oder als Tondatei weitergeben
+
+technik:
+  artefakte:
+    - typ: image
+      referenz: ghcr.io/mekotools/drumhaus:latest
+      sichtbarkeit: public
+      geprueft_am: '2026-10-10'
+  dienst_url: https://drumhaus.mekotools.de
+  port: 80
+  quellcode: https://github.com/mxfng/drumhaus
+  lizenz: CC BY-NC-SA 4.0
+  lizenz_link: https://github.com/mxfng/drumhaus/blob/main/LICENSE
+
+doku:
+  anleitung: docs/anleitung.md
+  didaktik: docs/didaktik.md
+  unterrichtsentwurf: docs/unterrichtsentwurf.md
+
+stand: '2026-10-10'

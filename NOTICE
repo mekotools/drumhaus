@@ -1,0 +1,145 @@
+# NOTICE — Herkunft und Lizenzen dieser Auslieferung
+
+Dieses Verzeichnis ist eine **geänderte Fassung** von drumhaus. Es baut ein
+fertiges Abbild für MekoTools (nicht-kommerzieller Betrieb).
+
+## 1. Werkzeug (Quelltext)
+
+* **drumhaus**, © 2023–2026 Max Fung — https://github.com/mxfng/drumhaus
+* Lizenz: **CC BY-NC-SA 4.0** (Namensnennung, nicht-kommerziell, Weitergabe unter
+  gleichen Bedingungen) — https://github.com/mxfng/drumhaus/blob/main/LICENSE
+* Festgeschriebene Fassung: `6b3f1856a6878167954f408349b6e4297e628cb7` (2026-10-10)
+* Regeln für Mitwirkende im Original: `CONTRIBUTING.md` („source-available“).
+
+## 2. Was gegenüber dem Original geändert wurde
+
+Alle **80 Klangdateien** sind ersetzt, die Wellenformen dazu neu erzeugt, die
+Herkunftsangaben in den Werkzeug-Dateien entsprechend richtiggestellt und im
+Fenster „About“ ein Hinweis auf diese geänderte Fassung ergänzt. Der Einzelvorgang
+steht in `README.md`; die Änderungen geschehen ausschließlich durch
+`scripts/klange-setzen.py` (mit Ankerprüfung).
+
+Die Klänge des Originals trugen folgende Angaben:
+
+* 8 Klänge (Satz „808“): Klangpaket „Roland TR-808 Rhythm Composer“ (Roland Corporation)
+* 8 Klänge (Satz „Organic“): Klangpaket „Sticks & Stones“ von Dylan Kidd
+* 64 Klänge: keine Herkunftsangabe
+
+Gekaufte Klangpakete dürfen nicht weitergegeben werden; Klänge ohne belegte Herkunft
+geben wir ebenfalls nicht weiter. Sie sind in dieser Fassung **nicht** enthalten.
+
+## 3. Klänge dieser Fassung (80 Dateien)
+
+Alle Klänge sind freie Aufnahmen. Die vier Quellen im Überblick:
+
+| Quelle | Lizenz | Klänge | Fundstelle |
+| --- | --- | --- | --- |
+| Stargate Sample Pack | CC0 1.0 | 39 | https://github.com/stargatedaw/stargate-sample-pack |
+| VCSL (Versilian Community Sample Library) | CC0 1.0 | 16 | https://github.com/sgossner/VCSL |
+| VSCO 2 Community Edition | CC0 1.0 | 2 | https://github.com/sgossner/VSCO-2-CE |
+| MuldjordKit (Fassung des FreePats-Projekts) | CC BY 4.0 | 23 | https://github.com/freepats/muldjordkit |
+
+Aufbereitung: Mono, 96 kHz, 24 Bit, auf −1,5 dBFS Spitze ausgesteuert, an Anfang
+und Ende beschnitten (siehe `README.md`). Jede Datei trägt ihre Herkunft selbst im
+RIFF-Block (`artist` = Urheber, `comment` = Quelle | Lizenz | Ursprungsdatei).
+
+### Einzelnachweis
+
+| Datei | Satz | Klang | Quelle | Urheber | Lizenz | Ursprungsdatei |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0/clap.wav | 808 | Clap | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Clap_rr1.wav` |
+| 0/hat.wav | 808 | Hat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `distkit-hatclsd.wav` |
+| 0/kick.wav | 808 | Kick | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `kick-1-A.wav` |
+| 0/kick2.wav | 808 | Kick2 | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `kick-1-B.wav` |
+| 0/ohat.wav | 808 | OHat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `distkit-hatopen.wav` |
+| 0/snare.wav | 808 | Snare | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `distkit-snare.wav` |
+| 0/tom.wav | 808 | Tom | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `distkit-hitom.wav` |
+| 0/tom2.wav | 808 | Tom2 | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `distkit-lotom.wav` |
+| 1/rw_clap.wav | bounce | Clap | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Clap_rr2.wav` |
+| 1/rw_cymbal.wav | bounce | Crash | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `crash_BRD_17.wav` |
+| 1/rw_hat.wav | bounce | Hat | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `26-HihatClosed.flac` |
+| 1/rw_kick.wav | bounce | Kick | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `23-KdrumL.flac` |
+| 1/rw_kick2.wav | bounce | Kick2 | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `24-KdrumL.flac` |
+| 1/rw_ohat.wav | bounce | OHat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `sdbkit-hatopen.wav` |
+| 1/rw_perc_flam.wav | bounce | Tom | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `11-Tom1.flac` |
+| 1/rw_snare.wav | bounce | Snare | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `48-Snare.flac` |
+| 2/paris_bass.wav | house | Bass | VSCO 2 Community Edition | Versilian Studios LLC | CC0 1.0 | `BKCtbss_Pizz_A#0_v1_rr1.wav` |
+| 2/paris_clap.wav | house | Clap | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Clap_rr4.wav` |
+| 2/paris_hat.wav | house | Hat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `x0xproc1-hatclsd.wav` |
+| 2/paris_kick.wav | house | Kick | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `sdbkit-kick.wav` |
+| 2/paris_ohat.wav | house | OHat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `x0xproc1-hatopen.wav` |
+| 2/paris_p_Abm.wav | house | Piano2 | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Piano 1_C2_vl2.wav` |
+| 2/paris_p_E.wav | house | Piano | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Piano 1_C2_vl1.wav` |
+| 2/paris_snare.wav | house | Snare | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `x0xproc1-snare.wav` |
+| 3/dk_chime.wav | organic | Chime | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `sus_A#3_r01_main.wav` |
+| 3/dk_clap.wav | organic | Clap | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Clap_rr5.wav` |
+| 3/dk_kick.wav | organic | Kick | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `21-KdrumL.flac` |
+| 3/dk_kick2.wav | organic | Kick2 | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `23-KdrumL.flac` |
+| 3/dk_shaker.wav | organic | Hat | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `26-HihatClosed.flac` |
+| 3/dk_sidestick.wav | organic | Perc | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `9-SnareRest.flac` |
+| 3/dk_snare.wav | organic | Snare | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `51-Snare.flac` |
+| 3/dk_stick_click.wav | organic | Stick | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `8-SnareRest.flac` |
+| 4/ts_clap.wav | trap | Clap | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `SoloClap_vl2.wav` |
+| 4/ts_hat.wav | trap | Hat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `hihat_BRD_closed.wav` |
+| 4/ts_hat2.wav | trap | Hat2 | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `hihat_BRD_tight.wav` |
+| 4/ts_hat3.wav | trap | Hat3 | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `hat-1.wav` |
+| 4/ts_kick.wav | trap | Kick | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `561593__panxozerok__safari-kick-2.wav` |
+| 4/ts_kick2.wav | trap | Kick2 | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `Kick1.wav` |
+| 4/ts_ohat.wav | trap | OHat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `439820__twentytwentymusic__electronic-open-hat-7.wav` |
+| 4/ts_snare.wav | trap | Snare | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `212211__alexthegr81__tapesnare-18.wav` |
+| 5/hs_clap.wav | eighties | Clap | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Clap_rr3.wav` |
+| 5/hs_crash.wav | eighties | Crash | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `7-CrashL.flac` |
+| 5/hs_hat.wav | eighties | Hat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `synthkit-hatclsd.wav` |
+| 5/hs_kick.wav | eighties | Kick | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `kick-2-B.wav` |
+| 5/hs_kick2.wav | eighties | Kick2 | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `distkit-kick.wav` |
+| 5/hs_ohat.wav | eighties | OHat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `synthkit-hatopen.wav` |
+| 5/hs_perc.wav | eighties | Perc | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Claves1_Hit_v1_rr1_Mid.wav` |
+| 5/hs_snare.wav | eighties | Snare | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `synthkit-snare.wav` |
+| 6/superich_clav.wav | hybrid | Perc | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Claves1_Hit_v2_rr1_Mid.wav` |
+| 6/superich_hat.wav | hybrid | Hat | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `29-HihatClosed.flac` |
+| 6/superich_kick.wav | hybrid | Kick | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `24-KdrumR.flac` |
+| 6/superich_kick2.wav | hybrid | Kick2 | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `25-KdrumR.flac` |
+| 6/superich_ohat.wav | hybrid | OHat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `x0xproc2-hatopen.wav` |
+| 6/superich_ride.wav | hybrid | Crash | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `crash_UD_16.wav` |
+| 6/superich_snare.wav | hybrid | Snare | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `55-Snare.flac` |
+| 6/superich_tap.wav | hybrid | Snare2 | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `56-Snare.flac` |
+| 7/02_SOT_Hat.wav | techno | Hat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `93909__pjcohen__skibacustomhihats1145top1215bottomclosededgeshank.wav` |
+| 7/08_SOT_kick_F.wav | techno | Bass | VSCO 2 Community Edition | Versilian Studios LLC | CC0 1.0 | `BKCtbss_Pizz_A#0_v1_rr2.wav` |
+| 7/09_SOT_Perc.wav | techno | Perc2 | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Claves2_Hit_v2_rr1_Mid.wav` |
+| 7/09_SOT_Snare.wav | techno | Snare | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `173087__yellowtree__wood-snare-sample-3.wav` |
+| 7/13_SOT_Perc.wav | techno | Perc | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Claves2_Hit_v1_rr1_Mid.wav` |
+| 7/14_SOT_kick_C.wav | techno | Kick | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `348785__arctis__hardstyle-rawstyle-kick-8.wav` |
+| 7/16_SOT_Clap.wav | techno | Clap | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `SoloClap_vl1.wav` |
+| 7/20_SOT_Hat.wav | techno | OHat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `317097__shpira__hat-open3.wav` |
+| 8/indie_crash.wav | jungle | Crash | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `8-CrashL.flac` |
+| 8/indie_cymbal.wav | jungle | Cymbal | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `ride_BRD_22.wav` |
+| 8/indie_hat.wav | jungle | Hat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `132415__sajmund__hi-hat-hit.aiff` |
+| 8/indie_kick.wav | jungle | Kick | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `x0xproc1-kick.wav` |
+| 8/indie_kick2.wav | jungle | Kick2 | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `x0xproc2-kick.wav` |
+| 8/indie_ohat.wav | jungle | OHat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `165027__rodrigo-the-mad__mini-open-hihat.wav` |
+| 8/indie_snare.wav | jungle | Snare | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `snare_12x5.wav` |
+| 8/indie_snare2.wav | jungle | Snare2 | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `snare_16x7.wav` |
+| 9/clap_hectic.wav | studio | Clap | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Clap_rr6.wav` |
+| 9/crash_legend.wav | studio | Crash | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `9-CrashL.flac` |
+| 9/hat_crisp.wav | studio | Hat | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `27-HihatClosed.flac` |
+| 9/kick_puffy.wav | studio | Kick | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `24-KdrumL.flac` |
+| 9/ohat_thick.wav | studio | OHat | Stargate Sample Pack | Stargate DAW und Mitwirkende | CC0 1.0 | `165028__rodrigo-the-mad__mini-909ish-open-hat.wav` |
+| 9/perc_jungle.wav | studio | Perc | VCSL (Versilian Community Sample Library) | Versilian Studios LLC | CC0 1.0 | `Claves1_Hit_v3_rr1_Mid.wav` |
+| 9/snare_together.wav | studio | Snare | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `53-Snare.flac` |
+| 9/tom_clonk.wav | studio | Tom | MuldjordKit (Fassung des FreePats-Projekts) | Lars Muldjord | CC BY 4.0 | `11-Tom2.flac` |
+
+## 4. Weitere Bestandteile
+
+* **Tone.js** (MIT) — Klangmaschine, als Abhängigkeit eingebunden.
+* **pako** (MIT), **React** (MIT), **Tailwind CSS** (MIT), **lucide-react** (ISC),
+  **zod** (MIT) — wie im Original.
+* Die Schriftarten des Originals liegen als Pakete bei (`@fontsource/...`); es wird
+  **nichts** von Google oder anderen Servern nachgeladen.
+* Keine Statistik, keine Zählung, keine Anmeldung, keine Fremdaufrufe zur Laufzeit.
+
+## 5. Hinweis zur Lizenz des Werkzeugs
+
+Die Lizenz des Werkzeugs (CC BY-NC-SA 4.0) erlaubt die Nutzung **nur für
+nicht-kommerzielle Zwecke**. MekoTools ist nicht-kommerziell. Sollte sich das
+ändern, ist dieses Werkzeug zu entfernen. Die Klänge (CC0/CC BY 4.0) bleiben davon
+unberührt; die Bedingung stammt allein vom Quelltext des Werkzeugs.

@@ -1,0 +1,1522 @@
+[
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "808",
+  "kit_name": "808",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/0/kick.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/stargate/kicks/kick-1-A.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "808",
+  "kit_name": "808",
+  "klang": "kick",
+  "etikett": "Kick2",
+  "zieldatei": "public/samples/0/kick2.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/stargate/kicks/kick-1-B.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "808",
+  "kit_name": "808",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/0/snare.wav",
+  "rolle": "snare",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/snares/distkit-snare.wav",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "808",
+  "kit_name": "808",
+  "klang": "clap",
+  "etikett": "Clap",
+  "zieldatei": "public/samples/0/clap.wav",
+  "rolle": "clap",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claps/Clap_rr1.wav",
+  "gemeinde": "clap"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "808",
+  "kit_name": "808",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/0/hat.wav",
+  "rolle": "hat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/hihats/distkit-hatclsd.wav",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "808",
+  "kit_name": "808",
+  "klang": "ohat",
+  "etikett": "OHat",
+  "zieldatei": "public/samples/0/ohat.wav",
+  "rolle": "ohat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/hihats/distkit-hatopen.wav",
+  "gemeinde": "ohat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "808",
+  "kit_name": "808",
+  "klang": "tom",
+  "etikett": "Tom",
+  "zieldatei": "public/samples/0/tom.wav",
+  "rolle": "tom",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/toms/distkit-hitom.wav",
+  "gemeinde": "tom"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "808",
+  "kit_name": "808",
+  "klang": "tom",
+  "etikett": "Tom2",
+  "zieldatei": "public/samples/0/tom2.wav",
+  "rolle": "tom",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/toms/distkit-lotom.wav",
+  "gemeinde": "tom"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "bounce",
+  "kit_name": "bounce",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/1/rw_kick.wav",
+  "rolle": "kick",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/23-KdrumL.flac",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "bounce",
+  "kit_name": "bounce",
+  "klang": "kick",
+  "etikett": "Kick2",
+  "zieldatei": "public/samples/1/rw_kick2.wav",
+  "rolle": "kick",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/24-KdrumL.flac",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "bounce",
+  "kit_name": "bounce",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/1/rw_snare.wav",
+  "rolle": "snare",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/48-Snare.flac",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "bounce",
+  "kit_name": "bounce",
+  "klang": "clap",
+  "etikett": "Clap",
+  "zieldatei": "public/samples/1/rw_clap.wav",
+  "rolle": "clap",
+  "art": "ak",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claps/Clap_rr2.wav",
+  "gemeinde": "clap"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "bounce",
+  "kit_name": "bounce",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/1/rw_hat.wav",
+  "rolle": "hat",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/26-HihatClosed.flac",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "bounce",
+  "kit_name": "bounce",
+  "klang": "ohat",
+  "etikett": "OHat",
+  "zieldatei": "public/samples/1/rw_ohat.wav",
+  "rolle": "ohat",
+  "art": "ak",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/hihats/sdbkit-hatopen.wav",
+  "gemeinde": "ohat"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "bounce",
+  "kit_name": "bounce",
+  "klang": "tom",
+  "etikett": "Tom",
+  "zieldatei": "public/samples/1/rw_perc_flam.wav",
+  "rolle": "tom",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/11-Tom1.flac",
+  "gemeinde": "tom"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "bounce",
+  "kit_name": "bounce",
+  "klang": "crash",
+  "etikett": "Crash",
+  "zieldatei": "public/samples/1/rw_cymbal.wav",
+  "rolle": "cymbal",
+  "art": "ak",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/karoryfer/cymbals/crash_BRD_17.wav",
+  "gemeinde": "crash"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "eighties",
+  "kit_name": "eighties",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/5/hs_kick.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/stargate/kicks/kick-2-B.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "eighties",
+  "kit_name": "eighties",
+  "klang": "kick",
+  "etikett": "Kick2",
+  "zieldatei": "public/samples/5/hs_kick2.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/kicks/distkit-kick.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "eighties",
+  "kit_name": "eighties",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/5/hs_snare.wav",
+  "rolle": "snare",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/snares/synthkit-snare.wav",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "eighties",
+  "kit_name": "eighties",
+  "klang": "clap",
+  "etikett": "Clap",
+  "zieldatei": "public/samples/5/hs_clap.wav",
+  "rolle": "clap",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claps/Clap_rr3.wav",
+  "gemeinde": "clap"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "eighties",
+  "kit_name": "eighties",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/5/hs_hat.wav",
+  "rolle": "hat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/hihats/synthkit-hatclsd.wav",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "eighties",
+  "kit_name": "eighties",
+  "klang": "ohat",
+  "etikett": "OHat",
+  "zieldatei": "public/samples/5/hs_ohat.wav",
+  "rolle": "ohat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/hihats/synthkit-hatopen.wav",
+  "gemeinde": "ohat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "eighties",
+  "kit_name": "eighties",
+  "klang": "perc",
+  "etikett": "Perc",
+  "zieldatei": "public/samples/5/hs_perc.wav",
+  "rolle": "perc",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claves/Claves1_Hit_v1_rr1_Mid.wav",
+  "gemeinde": "perc"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "eighties",
+  "kit_name": "eighties",
+  "klang": "crash",
+  "etikett": "Crash",
+  "zieldatei": "public/samples/5/hs_crash.wav",
+  "rolle": "crash",
+  "art": "el",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/7-CrashL.flac",
+  "gemeinde": "crash"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "house",
+  "kit_name": "house",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/2/paris_kick.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/kicks/sdbkit-kick.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VSCO 2 Community Edition",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "notes": "CC0 1.0"
+  },
+  "kit": "house",
+  "kit_name": "house",
+  "klang": "bass",
+  "etikett": "Bass",
+  "zieldatei": "public/samples/2/paris_bass.wav",
+  "rolle": "bass",
+  "art": "el",
+  "quelle": "vsco",
+  "quellpfad": "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v1_rr1.wav",
+  "gemeinde": "bass"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "house",
+  "kit_name": "house",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/2/paris_snare.wav",
+  "rolle": "snare",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/snares/x0xproc1-snare.wav",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "house",
+  "kit_name": "house",
+  "klang": "clap",
+  "etikett": "Clap",
+  "zieldatei": "public/samples/2/paris_clap.wav",
+  "rolle": "clap",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claps/Clap_rr4.wav",
+  "gemeinde": "clap"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "house",
+  "kit_name": "house",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/2/paris_hat.wav",
+  "rolle": "hat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/hihats/x0xproc1-hatclsd.wav",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "house",
+  "kit_name": "house",
+  "klang": "ohat",
+  "etikett": "OHat",
+  "zieldatei": "public/samples/2/paris_ohat.wav",
+  "rolle": "ohat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/hihats/x0xproc1-hatopen.wav",
+  "gemeinde": "ohat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "house",
+  "kit_name": "house",
+  "klang": "synth",
+  "etikett": "Piano",
+  "zieldatei": "public/samples/2/paris_p_E.wav",
+  "rolle": "synth",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Electrophones/TX81Z/Piano 1/Piano 1_C2_vl1.wav",
+  "gemeinde": "synth"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "house",
+  "kit_name": "house",
+  "klang": "synth",
+  "etikett": "Piano2",
+  "zieldatei": "public/samples/2/paris_p_Abm.wav",
+  "rolle": "synth",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Electrophones/TX81Z/Piano 1/Piano 1_C2_vl2.wav",
+  "gemeinde": "synth"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "hybrid",
+  "kit_name": "hybrid",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/6/superich_kick.wav",
+  "rolle": "kick",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/24-KdrumR.flac",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "hybrid",
+  "kit_name": "hybrid",
+  "klang": "kick",
+  "etikett": "Kick2",
+  "zieldatei": "public/samples/6/superich_kick2.wav",
+  "rolle": "kick",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/25-KdrumR.flac",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "hybrid",
+  "kit_name": "hybrid",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/6/superich_snare.wav",
+  "rolle": "snare",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/55-Snare.flac",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "hybrid",
+  "kit_name": "hybrid",
+  "klang": "snare",
+  "etikett": "Snare2",
+  "zieldatei": "public/samples/6/superich_tap.wav",
+  "rolle": "snare",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/56-Snare.flac",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "hybrid",
+  "kit_name": "hybrid",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/6/superich_hat.wav",
+  "rolle": "hat",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/29-HihatClosed.flac",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "hybrid",
+  "kit_name": "hybrid",
+  "klang": "ohat",
+  "etikett": "OHat",
+  "zieldatei": "public/samples/6/superich_ohat.wav",
+  "rolle": "ohat",
+  "art": "ak",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/hihats/x0xproc2-hatopen.wav",
+  "gemeinde": "ohat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "hybrid",
+  "kit_name": "hybrid",
+  "klang": "perc",
+  "etikett": "Perc",
+  "zieldatei": "public/samples/6/superich_clav.wav",
+  "rolle": "perc",
+  "art": "ak",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claves/Claves1_Hit_v2_rr1_Mid.wav",
+  "gemeinde": "perc"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "hybrid",
+  "kit_name": "hybrid",
+  "klang": "crash",
+  "etikett": "Crash",
+  "zieldatei": "public/samples/6/superich_ride.wav",
+  "rolle": "cymbal",
+  "art": "ak",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/karoryfer/cymbals/crash_UD_16.wav",
+  "gemeinde": "crash"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "jungle",
+  "kit_name": "jungle",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/8/indie_kick.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/kicks/x0xproc1-kick.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "jungle",
+  "kit_name": "jungle",
+  "klang": "kick",
+  "etikett": "Kick2",
+  "zieldatei": "public/samples/8/indie_kick2.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/fugue-state-audio/drums/kicks/x0xproc2-kick.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "jungle",
+  "kit_name": "jungle",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/8/indie_snare.wav",
+  "rolle": "snare",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/karoryfer/snares/snare_12x5.wav",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "jungle",
+  "kit_name": "jungle",
+  "klang": "snare",
+  "etikett": "Snare2",
+  "zieldatei": "public/samples/8/indie_snare2.wav",
+  "rolle": "snare",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/karoryfer/snares/snare_16x7.wav",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "jungle",
+  "kit_name": "jungle",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/8/indie_hat.wav",
+  "rolle": "hat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/cymbal/closed/132415__sajmund__hi-hat-hit.aiff",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "jungle",
+  "kit_name": "jungle",
+  "klang": "ohat",
+  "etikett": "OHat",
+  "zieldatei": "public/samples/8/indie_ohat.wav",
+  "rolle": "ohat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/cymbal/open/165027__rodrigo-the-mad__mini-open-hihat.wav",
+  "gemeinde": "ohat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "jungle",
+  "kit_name": "jungle",
+  "klang": "crash",
+  "etikett": "Cymbal",
+  "zieldatei": "public/samples/8/indie_cymbal.wav",
+  "rolle": "cymbal",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/karoryfer/cymbals/ride_BRD_22.wav",
+  "gemeinde": "cymbal"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "jungle",
+  "kit_name": "jungle",
+  "klang": "crash",
+  "etikett": "Crash",
+  "zieldatei": "public/samples/8/indie_crash.wav",
+  "rolle": "crash",
+  "art": "el",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/8-CrashL.flac",
+  "gemeinde": "crash"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "organic",
+  "kit_name": "organic",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/3/dk_kick.wav",
+  "rolle": "kick",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/21-KdrumL.flac",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "organic",
+  "kit_name": "organic",
+  "klang": "kick",
+  "etikett": "Kick2",
+  "zieldatei": "public/samples/3/dk_kick2.wav",
+  "rolle": "kick",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/23-KdrumL.flac",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "organic",
+  "kit_name": "organic",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/3/dk_snare.wav",
+  "rolle": "snare",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/51-Snare.flac",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "organic",
+  "kit_name": "organic",
+  "klang": "clap",
+  "etikett": "Clap",
+  "zieldatei": "public/samples/3/dk_clap.wav",
+  "rolle": "clap",
+  "art": "ak",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claps/Clap_rr5.wav",
+  "gemeinde": "clap"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "organic",
+  "kit_name": "organic",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/3/dk_shaker.wav",
+  "rolle": "hat",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/26-HihatClosed.flac",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "organic",
+  "kit_name": "organic",
+  "klang": "perc",
+  "etikett": "Stick",
+  "zieldatei": "public/samples/3/dk_stick_click.wav",
+  "rolle": "rim",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/8-SnareRest.flac",
+  "gemeinde": "rim"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "organic",
+  "kit_name": "organic",
+  "klang": "perc",
+  "etikett": "Perc",
+  "zieldatei": "public/samples/3/dk_sidestick.wav",
+  "rolle": "rim",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/9-SnareRest.flac",
+  "gemeinde": "shaker"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "organic",
+  "kit_name": "organic",
+  "klang": "perc",
+  "etikett": "Chime",
+  "zieldatei": "public/samples/3/dk_chime.wav",
+  "rolle": "chime",
+  "art": "ak",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Hand Chimes/sus_A#3_r01_main.wav",
+  "gemeinde": "chime"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "studio",
+  "kit_name": "studio",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/9/kick_puffy.wav",
+  "rolle": "kick",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/24-KdrumL.flac",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "studio",
+  "kit_name": "studio",
+  "klang": "tom",
+  "etikett": "Tom",
+  "zieldatei": "public/samples/9/tom_clonk.wav",
+  "rolle": "tom",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/11-Tom2.flac",
+  "gemeinde": "tom"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "studio",
+  "kit_name": "studio",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/9/snare_together.wav",
+  "rolle": "snare",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/53-Snare.flac",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "studio",
+  "kit_name": "studio",
+  "klang": "clap",
+  "etikett": "Clap",
+  "zieldatei": "public/samples/9/clap_hectic.wav",
+  "rolle": "clap",
+  "art": "ak",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claps/Clap_rr6.wav",
+  "gemeinde": "clap"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "studio",
+  "kit_name": "studio",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/9/hat_crisp.wav",
+  "rolle": "hat",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/27-HihatClosed.flac",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "studio",
+  "kit_name": "studio",
+  "klang": "ohat",
+  "etikett": "OHat",
+  "zieldatei": "public/samples/9/ohat_thick.wav",
+  "rolle": "ohat",
+  "art": "ak",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/cymbal/open/165028__rodrigo-the-mad__mini-909ish-open-hat.wav",
+  "gemeinde": "ohat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "studio",
+  "kit_name": "studio",
+  "klang": "perc",
+  "etikett": "Perc",
+  "zieldatei": "public/samples/9/perc_jungle.wav",
+  "rolle": "perc",
+  "art": "ak",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claves/Claves1_Hit_v3_rr1_Mid.wav",
+  "gemeinde": "perc"
+ },
+ {
+  "herkunft": {
+   "status": "other",
+   "label": "MuldjordKit (Fassung des FreePats-Projekts)",
+   "creditName": "Lars Muldjord",
+   "url": "https://github.com/freepats/muldjordkit",
+   "notes": "CC BY 4.0 - Namensnennung erforderlich"
+  },
+  "kit": "studio",
+  "kit_name": "studio",
+  "klang": "crash",
+  "etikett": "Crash",
+  "zieldatei": "public/samples/9/crash_legend.wav",
+  "rolle": "crash",
+  "art": "ak",
+  "quelle": "muldjord",
+  "quellpfad": "/opt/data/cache/scratch/drumhaus-klang/MuldjordKit 20201018/9-CrashL.flac",
+  "gemeinde": "crash"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "techno",
+  "kit_name": "techno",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/7/14_SOT_kick_C.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/kick/348785__arctis__hardstyle-rawstyle-kick-8.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VSCO 2 Community Edition",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VSCO-2-CE",
+   "notes": "CC0 1.0"
+  },
+  "kit": "techno",
+  "kit_name": "techno",
+  "klang": "bass",
+  "etikett": "Bass",
+  "zieldatei": "public/samples/7/08_SOT_kick_F.wav",
+  "rolle": "bass",
+  "art": "el",
+  "quelle": "vsco",
+  "quellpfad": "Strings/Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v1_rr2.wav",
+  "gemeinde": "bass"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "techno",
+  "kit_name": "techno",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/7/09_SOT_Snare.wav",
+  "rolle": "snare",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/snare/173087__yellowtree__wood-snare-sample-3.wav",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "techno",
+  "kit_name": "techno",
+  "klang": "clap",
+  "etikett": "Clap",
+  "zieldatei": "public/samples/7/16_SOT_Clap.wav",
+  "rolle": "clap",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claps/SoloClap_vl1.wav",
+  "gemeinde": "clap"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "techno",
+  "kit_name": "techno",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/7/02_SOT_Hat.wav",
+  "rolle": "hat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/cymbal/closed/93909__pjcohen__skibacustomhihats1145top1215bottomclosededgeshank.wav",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "techno",
+  "kit_name": "techno",
+  "klang": "ohat",
+  "etikett": "OHat",
+  "zieldatei": "public/samples/7/20_SOT_Hat.wav",
+  "rolle": "ohat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/cymbal/open/317097__shpira__hat-open3.wav",
+  "gemeinde": "ohat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "techno",
+  "kit_name": "techno",
+  "klang": "perc",
+  "etikett": "Perc",
+  "zieldatei": "public/samples/7/13_SOT_Perc.wav",
+  "rolle": "perc",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claves/Claves2_Hit_v1_rr1_Mid.wav",
+  "gemeinde": "perc"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "techno",
+  "kit_name": "techno",
+  "klang": "perc",
+  "etikett": "Perc2",
+  "zieldatei": "public/samples/7/09_SOT_Perc.wav",
+  "rolle": "perc",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claves/Claves2_Hit_v2_rr1_Mid.wav",
+  "gemeinde": "perc"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "trap",
+  "kit_name": "trap",
+  "klang": "kick",
+  "etikett": "Kick",
+  "zieldatei": "public/samples/4/ts_kick.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/kick/561593__panxozerok__safari-kick-2.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "trap",
+  "kit_name": "trap",
+  "klang": "kick",
+  "etikett": "Kick2",
+  "zieldatei": "public/samples/4/ts_kick2.wav",
+  "rolle": "kick",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/microlag/One-Shots/Drums/Kick1.wav",
+  "gemeinde": "kick"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "trap",
+  "kit_name": "trap",
+  "klang": "snare",
+  "etikett": "Snare",
+  "zieldatei": "public/samples/4/ts_snare.wav",
+  "rolle": "snare",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/snare/212211__alexthegr81__tapesnare-18.wav",
+  "gemeinde": "snare"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "VCSL (Versilian Community Sample Library)",
+   "creditName": "Versilian Studios LLC",
+   "url": "https://github.com/sgossner/VCSL",
+   "notes": "CC0 1.0"
+  },
+  "kit": "trap",
+  "kit_name": "trap",
+  "klang": "clap",
+  "etikett": "Clap",
+  "zieldatei": "public/samples/4/ts_clap.wav",
+  "rolle": "clap",
+  "art": "el",
+  "quelle": "vcsl",
+  "quellpfad": "Idiophones/Struck Idiophones/Claps/SoloClap_vl2.wav",
+  "gemeinde": "clap"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "trap",
+  "kit_name": "trap",
+  "klang": "hat",
+  "etikett": "Hat",
+  "zieldatei": "public/samples/4/ts_hat.wav",
+  "rolle": "hat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/karoryfer/hihats/hihat_BRD_closed.wav",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "trap",
+  "kit_name": "trap",
+  "klang": "ohat",
+  "etikett": "OHat",
+  "zieldatei": "public/samples/4/ts_ohat.wav",
+  "rolle": "ohat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/freesound/drums/cymbal/open/439820__twentytwentymusic__electronic-open-hat-7.wav",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "trap",
+  "kit_name": "trap",
+  "klang": "hat",
+  "etikett": "Hat2",
+  "zieldatei": "public/samples/4/ts_hat2.wav",
+  "rolle": "hat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/karoryfer/hihats/hihat_BRD_tight.wav",
+  "gemeinde": "hat"
+ },
+ {
+  "herkunft": {
+   "status": "publicDomain",
+   "label": "Stargate Sample Pack",
+   "creditName": "Stargate DAW und Mitwirkende",
+   "url": "https://github.com/stargatedaw/stargate-sample-pack",
+   "notes": "CC0 1.0; einzelne Aufnahmen stammen von Freesound"
+  },
+  "kit": "trap",
+  "kit_name": "trap",
+  "klang": "hat",
+  "etikett": "Hat3",
+  "zieldatei": "public/samples/4/ts_hat3.wav",
+  "rolle": "hat",
+  "art": "el",
+  "quelle": "stargate",
+  "quellpfad": "stargate-sample-pack/stargate/hats/hat-1.wav",
+  "gemeinde": "ohat"
+ }
+]

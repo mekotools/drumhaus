@@ -1,0 +1,10 @@
+# Beim Bauen wird nur der Quelltext-Abzug geholt; nichts aus dem Arbeitsordner
+# soll ungewollt ins Abbild geraten.
+.git
+.github
+docs
+klang
+scripts
+NOTICE
+README.md
+tool.yaml
