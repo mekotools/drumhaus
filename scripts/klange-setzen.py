@@ -169,13 +169,13 @@ def main():
     anker(vite.is_file(), "vite.config.ts fehlt")
     text = vite.read_text()
     anker_vite = "const appVersion = getGitHash();"
-    anker(anker_vite in text, "Fassungszeile in vite.config.ts nicht gefunden")
-    if "APP_VERSION" not in text:
+    if "process.env.APP_VERSION" in text:
+        print("vite.config.ts: Fassungskennung war bereits vorbereitet")
+    else:
+        anker(anker_vite in text, "Fassungszeile in vite.config.ts nicht gefunden")
         vite.write_text(text.replace(
             anker_vite, "const appVersion = process.env.APP_VERSION ?? getGitHash();", 1))
         print("vite.config.ts: Fassungskennung kann aus der Umgebung kommen")
-    else:
-        print("vite.config.ts: Fassungskennung war bereits vorbereitet")
 
 
 if __name__ == "__main__":
