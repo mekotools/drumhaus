@@ -1,10 +1,11 @@
-# Beim Bauen wird nur der Quelltext-Abzug geholt; nichts aus dem Arbeitsordner
-# soll ungewollt ins Abbild geraten.
+# Beim Bauen wird nur der Quelltext-Abzug geholt und was der Bau wirklich
+# braucht: klang/ (unsere Klänge) und scripts/klange-setzen.py.
+# ACHTUNG: Was hier ausgeschlossen wird, kann COPY nicht mehr finden — klang
+# und scripts dürfen deshalb NICHT ausgeschlossen werden (sonst bricht der Bau
+# mit "failed to calculate checksum ... /klang: not found" ab).
 .git
 .github
 docs
-klang
-scripts
 NOTICE
 README.md
 tool.yaml
