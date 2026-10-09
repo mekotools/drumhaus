@@ -23,13 +23,39 @@ Aufruf: python3 klange-setzen.py <quelltext> <klang>
 """
 import glob
 import json
-import os
 import sys
-import wave
 from pathlib import Path
 
 SPITZE = -1.5          # Zielaussteuerung in dBFS
 FORMAT = (96000, 1, 3)  # Abtastrate, Kanäle, Bytes je Sample
+
+
+def wellenformat(pfad):
+    """Abtastrate, Kanäle und Bittiefe aus dem fmt-Block lesen.
+
+    Absichtlich ohne das wave-Modul: 24-Bit-Dateien werden im erweiterten
+    WAV-Format abgelegt (Formatschluessel 65534, WAVE_FORMAT_EXTENSIBLE), und
+    das kann das wave-Modul erst ab Python 3.12 lesen — im Bauabbild steckt 3.11.
+    Liefert (Abtastrate, Kanäle, Bytes je Sample) oder None.
+    """
+    with open(pfad, "rb") as f:
+        kopf = f.read(12)
+        if len(kopf) < 12 or kopf[:4] != b"RIFF" or kopf[8:12] != b"WAVE":
+            return None
+        while True:
+            h = f.read(8)
+            if len(h) < 8:
+                return None
+            kennung, laenge = h[:4], int.from_bytes(h[4:8], "little")
+            if kennung == b"fmt ":
+                d = f.read(laenge)
+                if len(d) < 16:
+                    return None
+                rate = int.from_bytes(d[4:8], "little")
+                kanaele = int.from_bytes(d[2:4], "little")
+                bits = int.from_bytes(d[14:16], "little")
+                return rate, kanaele, bits // 8
+            f.seek(laenge + (laenge % 2), 1)
 
 
 def anker(bedingung, text):
@@ -74,9 +100,8 @@ def main():
 
     # 4. Klangformat
     for p in vorhanden:
-        with wave.open(p, "rb") as w:
-            ist = (w.getframerate(), w.getnchannels(), w.getsampwidth())
-            anker(ist == FORMAT, "Klangformat falsch bei %s: %s statt %s" % (p, ist, FORMAT))
+        ist = wellenformat(p)
+        anker(ist == FORMAT, "Klangformat falsch bei %s: %s statt %s" % (p, ist, FORMAT))
     print("Formprüfung: %d Dateien sind WAV, 96 kHz, 1 Kanal, 24 Bit" % len(vorhanden))
 
     # 5. package.json: esbuild darf seinen Bauschritt ausführen
