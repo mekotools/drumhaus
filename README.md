@@ -18,12 +18,21 @@ statischen Dateien hinter nginx.
 
 ## Warum die Klänge ersetzt wurden
 
-Das Original führt zu jedem Klang eine Herkunftsangabe mit. Darin steht:
+Die Herkunft der 80 Originalklänge steht teils in der Datei selbst (RIFF-Block:
+Paketname, Vertrieb), teils in der Herkunftsangabe des Werkzeugs. Beides haben wir
+ausgelesen:
 
-* 8 Klänge des Satzes „808“: Klangpaket **„Roland TR-808 Rhythm Composer“**
-  (Roland Corporation),
-* 8 Klänge des Satzes „Organic“: Klangpaket **„Sticks & Stones“** von Dylan Kidd,
-* die übrigen **64 Klänge**: keine Herkunftsangabe.
+* **40 Klänge** tragen im Dateikopf die Kennung eines **gekauften Pakets**:
+  * 8 × „Sample Magic – Neon Pop“ (Satz Bounce) — mit dem Zusatz
+    „Distributed Exclusively by Splice.com“
+  * 8 × „Sample Magic – Classic Jungle“ (Satz Jungle)
+  * 8 × „Sample Magic – Tape & Vinyl Drums“ (Satz Studio) — über Splice
+  * 16 × nur die Kennung „Distributed Exclusively by Splice.com“ (Sätze Trap und
+    Eighties), ohne Paketnamen
+* **16 Klänge** sind nur in der Herkunftsangabe des Werkzeugs benannt:
+  8 × „Roland TR-808 Rhythm Composer“ (Roland Corporation, Satz 808) und
+  8 × „Sticks & Stones“ von Dylan Kidd (Satz Organic).
+* **24 Klänge** tragen **gar keine** Angabe (Sätze House, Hybrid, Techno).
 
 Gekaufte Klangpakete dürfen wir nicht weitergeben, und Klänge ohne belegte Herkunft
 wollen wir nicht weitergeben. Deshalb sind **alle 80 Klangdateien** durch freie

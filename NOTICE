@@ -19,11 +19,18 @@ Fenster „About“ ein Hinweis auf diese geänderte Fassung ergänzt. Der Einze
 steht in `README.md`; die Änderungen geschehen ausschließlich durch
 `scripts/klange-setzen.py` (mit Ankerprüfung).
 
-Die Klänge des Originals trugen folgende Angaben:
+Die Klänge des Originals trugen folgende Kennungen (ausgelesen am 10. Oktober 2026 —
+Paketnamen und Vertriebshinweis stehen im Dateikopf, die übrigen Angaben in der
+Herkunftsangabe des Werkzeugs):
 
-* 8 Klänge (Satz „808“): Klangpaket „Roland TR-808 Rhythm Composer“ (Roland Corporation)
-* 8 Klänge (Satz „Organic“): Klangpaket „Sticks & Stones“ von Dylan Kidd
-* 64 Klänge: keine Herkunftsangabe
+* **40 Klänge**: Kennung eines gekauften, über Splice vertriebenen Pakets
+  * 8 × „Sample Magic – Neon Pop“ (Satz Bounce) — „Distributed Exclusively by Splice.com“
+  * 8 × „Sample Magic – Classic Jungle“ (Satz Jungle)
+  * 8 × „Sample Magic – Tape & Vinyl Drums“ (Satz Studio) — über Splice
+  * 16 × nur „Distributed Exclusively by Splice.com“ (Sätze Trap und Eighties)
+* **16 Klänge**: „Roland TR-808 Rhythm Composer“ (Roland Corporation, Satz 808) und
+  „Sticks & Stones“ von Dylan Kidd (Satz Organic)
+* **24 Klänge**: keine Angabe (Sätze House, Hybrid, Techno)
 
 Gekaufte Klangpakete dürfen nicht weitergegeben werden; Klänge ohne belegte Herkunft
 geben wir ebenfalls nicht weiter. Sie sind in dieser Fassung **nicht** enthalten.
