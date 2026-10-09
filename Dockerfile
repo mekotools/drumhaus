@@ -49,6 +49,10 @@ RUN python3 /klange-setzen.py /quelle /klang
 RUN npm install -g pnpm@${PNPM} \
  && pnpm install --frozen-lockfile
 
+# Fassungskennung mitgeben: im About-Fenster soll die festgeschriebene Fassung
+# stehen, nicht "dev" (der Archiv-Abzug hat keinen git-Stand).
+ENV APP_VERSION=${FASSUNG}
+
 # Wellenformen aus den neuen Klängen erzeugen, dann bauen.
 RUN pnpm run waveforms:build \
  && pnpm run build \

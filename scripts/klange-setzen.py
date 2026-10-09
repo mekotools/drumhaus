@@ -161,6 +161,22 @@ def main():
     else:
         print("About-Fenster: Kennzeichnung war bereits vorhanden")
 
+    # 8. Fassungskennung. Im Fenster "About" steht die Fassung, die das Werkzeug
+    #    selbst aus dem git-Stand ableitet. Gebaut wird hier aus einem Archiv
+    #    ohne git-Stand — dort steht sonst "dev". Deshalb darf die Kennung aus
+    #    der Umgebung kommen (APP_VERSION, im Dockerfile gesetzt).
+    vite = quelle / "vite.config.ts"
+    anker(vite.is_file(), "vite.config.ts fehlt")
+    text = vite.read_text()
+    anker_vite = "const appVersion = getGitHash();"
+    anker(anker_vite in text, "Fassungszeile in vite.config.ts nicht gefunden")
+    if "APP_VERSION" not in text:
+        vite.write_text(text.replace(
+            anker_vite, "const appVersion = process.env.APP_VERSION ?? getGitHash();", 1))
+        print("vite.config.ts: Fassungskennung kann aus der Umgebung kommen")
+    else:
+        print("vite.config.ts: Fassungskennung war bereits vorbereitet")
+
 
 if __name__ == "__main__":
     main()
