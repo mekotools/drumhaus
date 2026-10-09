@@ -53,11 +53,13 @@ RUN npm install -g pnpm@${PNPM} \
 RUN pnpm run waveforms:build \
  && pnpm run build \
  && test -s dist/index.html \
- && test -s dist/waveforms/index.json \
  && test -s dist/samples/0/kick.wav \
+ && test -s dist/waveforms/0/kick.json \
  && test "$(ls dist/samples/*/*.wav | wc -l)" = "80" \
+ && test "$(ls dist/waveforms/*/*.json | wc -l)" = "80" \
  && echo "--- Buendelgroesse:" && du -sh dist \
- && echo "--- Klangdateien:" && ls dist/samples/*/*.wav | wc -l
+ && echo "--- Klangdateien:" && ls dist/samples/*/*.wav | wc -l \
+ && echo "--- Wellenformen:" && ls dist/waveforms/*/*.json | wc -l
 
 FROM ${BASIS_NGINX}
 COPY --from=bau /quelle/dist/ /usr/share/nginx/html/
